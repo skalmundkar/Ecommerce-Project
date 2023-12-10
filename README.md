@@ -1,5 +1,5 @@
 # Ecommerce-Project
-Data analysis conducted on the Olist Store Dataset, aiming to extract valuable insights and key performance indicators.
+Data analysis conducted on the Ecommerce Store Dataset, aiming to extract valuable insights and key performance indicators.
 Using following tools,
 1.Excel
 2.MySQL
